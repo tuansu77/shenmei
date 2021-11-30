@@ -1,0 +1,175 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [
+        "solo.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "𝓣𝓗𝓸𝓪𝓷𝓰/𝓑𝓸𝓽",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "100047993302072",
+        "",
+        "",
+        "",
+        "100051105067681",
+        "100049871994295",
+        "100075201189194",
+        "100075201189194",
+        "100074750922312",
+        "100075342696329",
+        "100075201189194",
+        "100069308660244",
+        "100073126396419"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.9",
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 180
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "sim2": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 900000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "hitbutt": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "img": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "linkword": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 240
+    },
+    "rankup": {
+        "autoUnsend": "true",
+        "unsendMessageAfter": 10
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "shortlink": {
+        "bitlyAPI": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "sim": {
+        "APIKEY": "Meew_SngN7n6J75FrR4uDcAhdUI1GbfmKz8"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyCqdArru09wcc2kgm6uuzr6UN6c-HITQoU",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "slap": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "sortword": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "teach": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "tiktok": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyA1ju10-FQ3FrMfAi-oOB98puHgbmIdWZU"
+    },
+    "weather": {
+        "OPEN_WEATHER": "035fb446f22456eb35b286656068cc07"
+    },
+    "work": {
+        "cooldownTime": 10000000
+    },
+    "covid": {
+        "APIKEY": "Meew_WmNjfZmTS3bBYSVbHajyj0FawSOa0l"
+    },
+    "hép": {
+        "autoUnsend": true,
+        "delayUnsend": 180
+    },
+    "nameJP": {
+        "APIKEY": "mi451266190"
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "simvoice": {
+        "APIKEY": "Meew_kB5wRAlpHhrAj0GhRzmmLHesvvTbXE"
+    },
+    "song": {
+        "YOUTUBE_API": "AIzaSyBkeljYcuoBOHfx523FH2AEENlciKnm3jM"
+    },
+    "tikvideo": {
+        "APIKEY": "71378e50c2msh093d7ed0a179213p1a7ccejsnafd92ab825a2"
+    },
+    "ytbmp4": {
+        "YOUTUBE_API": "AIzaSyAV-_gwPIG08N9ELnovGVr3jxY7NmlMfDM"
+    }
+}
