@@ -72,11 +72,11 @@ const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN
 - 🍁 **URL (or IP)**: Dán link vừa copy bên **[Replit](https://replit.com/)** 
 - 🍁 Ấn **tick** vào ô  **Select "Alert Contacts To Notify** (nhận thông báo từ email)
 - 🍁 Ấn **Create Monitor** để hoàn thành quá trình tạo **uptime**
-# 🤝🏻 Connect With Bảo Luân
+# 🤝🏻 Connect With shenmei
 <p align="center"> 
-&nbsp; <a href="https://www.instagram.com/blbl_2008" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
-&nbsp; <a href="https://www.tiktok.com/@baoluan13112008?" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/search" width="100" /></a>    
-&nbsp; <a href="https://github.com/BaoLuanCoder" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://www.facebook.com/BuiLeBaoLuanOfficial.No1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="mailto:builebaoluan.vpbq@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+&nbsp; <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
+&nbsp; <a href="https://www.tiktok.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/search" width="100" /></a>    
+&nbsp; <a href="https://github.com/shenmei" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="https://www.facebook.com/longtieuthu123/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+&nbsp; <a href="mailto:tuanthuong3001@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
